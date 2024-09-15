@@ -24,7 +24,7 @@ Check out the live version of the TODO App here: [TODO App](https://to-do-by-anu
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/AnujPratap-96/TO-DO-App.git
     cd todo-app
     ```
 
